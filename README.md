@@ -4,5 +4,6 @@
 
 **Internal CHOP's**
 
-AI OSC OUT : 300
+AI OSC OUT : 300 
+<br>
 AI SIM OSC OUT: 301
