@@ -21,12 +21,25 @@ Uses Head scans for each performer and visulizes the date thrugh teh layout for 
 ![image](https://user-images.githubusercontent.com/48803449/120364480-95ca8200-c30d-11eb-8da5-30d9d57c0de5.png)
 
 **AI Data Viz Graph**
-Garaph uses instancing to create a general garph of all the emotion AI is detecting on the given performer, left hand side emotion shows teh currrent emotion being acted by the performer.
+
+Graph uses instancing to create a general graph of all the emotion AI is detecting on the given performer, left hand side emotion shows the current emotion being acted by the performer.
 
 ![image](https://user-images.githubusercontent.com/48803449/120365620-f908e400-c30e-11eb-8156-75865c4c8023.png)
 
 
-**AI Data Viz Circle**
+**AI Screen Smiley**
+
+Repsresents the current emotion of tehe performer is acting through a distorted smiley.
+
+![image](https://user-images.githubusercontent.com/48803449/120366643-2e620180-c310-11eb-995f-9ffc64d96d31.png)
+
+![image](https://user-images.githubusercontent.com/48803449/120366942-8ac52100-c310-11eb-8942-d82d85ab4bf1.png)
+
+**AI Main Screen Circle Visualization Circle v_2**
+
+![image](https://user-images.githubusercontent.com/48803449/120367631-661d7900-c311-11eb-82c4-9f7bdfb55f3e.png)
+
+
 <!-- <IMAGE OF STAGE SETUP (vector)> -->
 
 
