@@ -37,8 +37,7 @@ Repsresents the current emotion of tehe performer is acting through a distorted 
 
 **AI Main Screen Circle Visualization Circle v_2**
 
-![image](https://user-images.githubusercontent.com/48803449/120367631-661d7900-c311-11eb-82c4-9f7bdfb55f3e.png)
-
+![image](https://user-images.githubusercontent.com/48803449/120370110-74b95f80-c314-11eb-8173-2f2ed675dcf4.png)
 
 <!-- <IMAGE OF STAGE SETUP (vector)> -->
 
