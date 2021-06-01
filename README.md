@@ -1,5 +1,7 @@
 ## Audio Visual Patches
 
+--- PENDING ---
+
 Patches for TouchDesigner
 
 <!-- <IMAGE OF STAGE SETUP (vector)> -->
@@ -11,6 +13,10 @@ Patches for TouchDesigner
 AI OSC OUT : 300 \
 AI SIM OSC OUT: 301
 
+
+#### License
+
+[Creative Commons](https://github.com/RegieKI/regieki-docs/blob/main/LICENSE-CC.md)
 
 <!-- **Patches**
 
