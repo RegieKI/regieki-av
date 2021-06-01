@@ -2,13 +2,35 @@
 
 Patches for TouchDesigner
 
+### Main Control UI
+
 ![image](https://user-images.githubusercontent.com/48803449/120361005-a7118f80-c309-11eb-8910-963167d4a667.png)
 
+* **Main interface** for controlling then AV content btph for teh stage screens and projector. Using Lunochod UI
 
+### Screen TOX's
+
+**AI Data Viz w/ Head Scans**
+
+Uses Head scans for each performer and visulizes the date thrugh teh layout for both the emotion being acted and teh data coming from the AI
+
+![image](https://user-images.githubusercontent.com/48803449/120362077-f6a48b00-c30a-11eb-99f3-5051fab6f470.png)
+
+**AI Data Viz Circle**
+
+![image](https://user-images.githubusercontent.com/48803449/120364480-95ca8200-c30d-11eb-8da5-30d9d57c0de5.png)
+
+**AI Data Viz Graph**
+Garaph uses instancing to create a general garph of all the emotion AI is detecting on the given performer, left hand side emotion shows teh currrent emotion being acted by the performer.
+
+![image](https://user-images.githubusercontent.com/48803449/120365620-f908e400-c30e-11eb-8156-75865c4c8023.png)
+
+
+**AI Data Viz Circle**
 <!-- <IMAGE OF STAGE SETUP (vector)> -->
 
 
-**Internal TOX's**
+### Internal TOX's
 
 **Session Manager**
 
