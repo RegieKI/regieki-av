@@ -33,7 +33,7 @@ Repsresents the current emotion of tehe performer is acting through a distorted 
 
 ![image](https://user-images.githubusercontent.com/48803449/120366643-2e620180-c310-11eb-995f-9ffc64d96d31.png)
 
-![image](https://user-images.githubusercontent.com/48803449/120366942-8ac52100-c310-11eb-8942-d82d85ab4bf1.png)
+
 
 **AI Main Screen Circle Visualization Circle v_2**
 
